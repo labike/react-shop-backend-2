@@ -1,16 +1,47 @@
-ssh root@admin
+### React-Shop-Backend-2
 
-wget http://node.js
+new backend system, it is simple, from https://github.com/labike/react-shop-backend, fix some bug
 
-tar -xzvf ...
+#### use
 
-mv node@8.10  /usr/local/node
+    git clone
 
-ln -s /usr/local/node/bin/node /usr/local/bin/
+    yarn install
 
-ln -s ./usr/local/node/bin/npm /usr/local/bin/
+#### change proxy
 
-install yarn
+webpack.config.js
 
-配置git
+    proxy: {
+        '/manage': {
+            target: '{换成自己的接口}',
+            changeOrigin: true
+        },
+        '/user/logout.do': {
+            target: '{换成自己的接口}',
+            changeOrigin: true
+        }
+    }
 
+#### Dev
+
+    yarn run dev
+
+#### prod
+
+    yarn run dist
+
+#### interface style
+
+    wait moment...
+
+#### views
+
+![goods-1](http://oo8hp4ueg.bkt.clouddn.com/goods-1.png)
+![goods-2](http://oo8hp4ueg.bkt.clouddn.com/goods-2.png)
+![goods-3](http://oo8hp4ueg.bkt.clouddn.com/goods-3.png)
+![goods-4](http://oo8hp4ueg.bkt.clouddn.com/goods-4.png)
+![goods-5](http://oo8hp4ueg.bkt.clouddn.com/goods-5.png)
+![goods-6](http://oo8hp4ueg.bkt.clouddn.com/goods-6.gif)
+
+more  https://www.os4team.cn
