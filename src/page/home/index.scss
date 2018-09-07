@@ -1,0 +1,36 @@
+/*
+ * @Author: labike 
+ * @Date: 2018-03-12 22:06:04 
+ * @Last Modified by: labike
+ * @Last Modified time: 2018-09-03 20:10:57
+ */
+
+.color-box{
+    display: block;
+    height: 160px;
+    text-align: center;
+    padding: 20px 0;
+    opacity: .9;
+    transition: all .3s;
+    &:hover{
+        text-decoration: none;
+        color: #333;
+        opacity: 1;
+        transform: scale(1.08)
+    }
+    &:focus{
+        text-decoration: none;
+    }
+    .count{
+        font-size: 30px;
+        height: 80px;
+        line-height: 80px;
+    }
+    .desc{
+        font-size: 18px;
+        .fa{
+            margin-right: 5px;
+        }
+    }
+}
+
