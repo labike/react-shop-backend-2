@@ -1,6 +1,6 @@
 ### React-Shop-Backend-2
 
-new backend system, it is simple, from https://github.com/labike/react-shop-backend, fix some bug
+new backend system, fix some bug, upgrade some syntax of ES5/6 
 
 #### use
 
