@@ -41,9 +41,9 @@ webpack.config.js
 
 ![goods-2](http://img.labike.xyz/goods-2.png)
 
-![goods-3](http://img.labike.xyz/goods-3.png)
+![goods-3](http://img.labike.xyz/goods-3.gif)
 
-![goods-4](http://img.labike.xyz/goods-4.png)
+![goods-4](http://img.labike.xyz/goods-4.gif)
 
 ![goods-5](http://img.labike.xyz/goods-5.gif)
 
