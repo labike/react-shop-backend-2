@@ -37,16 +37,16 @@ webpack.config.js
 
 #### views
 
-![goods-1](http://oo8hp4ueg.bkt.clouddn.com/goods-1.png)
+![goods-1](http://img.labike.xyz/goods-1.png)
 
-![goods-2](http://oo8hp4ueg.bkt.clouddn.com/goods-2.png)
+![goods-2](http://img.labike.xyz/goods-2.png)
 
-![goods-3](http://oo8hp4ueg.bkt.clouddn.com/goods-3.gif)
+![goods-3](http://img.labike.xyz/goods-3.png)
 
-![goods-4](http://oo8hp4ueg.bkt.clouddn.com/goods-4.gif)
+![goods-4](http://img.labike.xyz/goods-4.png)
 
-![goods-5](http://oo8hp4ueg.bkt.clouddn.com/goods-5.gif)
+![goods-5](http://img.labike.xyz/goods-5.gif)
 
-![goods-6](http://oo8hp4ueg.bkt.clouddn.com/goods-6.gif)
+![goods-6](http://img.labike.xyz/goods-6.gif)
 
 more  https://www.os4team.cn
